@@ -912,12 +912,12 @@
         "source": "/Users/namrathaprabhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8bb480f490e4b1c12500dd5ce4e3b984/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/namrathaprabhu/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/36ff2710d2a1f39b83da861a31d33a9e/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "/Users/namrathaprabhu/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/36ff2710d2a1f39b83da861a31d33a9e/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/namrathaprabhu/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/36ff2710d2a1f39b83da861a31d33a9e/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
@@ -1472,6 +1472,10 @@
         "source": "/Users/namrathaprabhu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b2ae9c4a3342b740809bebfef6560c11/res/layout/design_navigation_item_header.xml"
     },
     {
+        "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    },
+    {
         "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/anim_lightbox_enter.xml.flat",
         "source": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/anim/lightbox_enter.xml"
     },
@@ -1794,6 +1798,10 @@
     {
         "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/layout_amu_info_window.xml.flat",
         "source": "/Users/namrathaprabhu/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/09be54c77106e8e09ef19ac873a24c8b/res/layout/amu_info_window.xml"
+    },
+    {
+        "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/layout/list_item.xml"
     },
     {
         "merged": "/Users/namrathaprabhu/Desktop/React-Native-Places-App-development/android/app/build/intermediates/res/merged/debug/drawable_item_background.xml.flat",
