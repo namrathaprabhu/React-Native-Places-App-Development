@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+
+target 'AwesomePlaces' do
+  react_native_path = "../node_modules/react-native"
+  pod "yoga", :path => "../node_modules/react-native/ReactCommon/yoga"
+  pod "React", :path => react_native_path, :subspecs => [
+    'Core',
+    'RCTActionSheet',
+    'RCTAnimation',
+    'RCTGeolocation',
+    'RCTImage',
+    'RCTLinkingIOS',
+    'RCTNetwork',
+    'RCTSettings',
+    'RCTText',
+    'RCTVibration',
+    'RCTWebSocket'
+  ]
+
+  pod 'GoogleMaps'
+  pod 'react-native-maps', :path => '../node_modules/react-native-maps'
+
+end

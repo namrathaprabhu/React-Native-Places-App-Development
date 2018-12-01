@@ -10,4 +10,50 @@ dependencies: \
   /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
   /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
   /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h \
+  /Users/namrathaprabhu/Desktop/React-Native-Places-App-development/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h
